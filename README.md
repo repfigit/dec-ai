@@ -1,5 +1,16 @@
 # Decentralized AI
 Decentralized AI is an emerging paradigm where autonomous AI agents discover, authenticate, and transact with each other across distributed networks rather than through centralized cloud platforms. This requires new infrastructure because traditional web systems (DNS, certificates, IP addressing) were built for human-scale interactions with slow update cycles, while AI agents need millisecond-level identity resolution, instant revocation, and cryptographic capability verification. Key players include Project NANDA at MIT (agent discovery architecture), NEAR Protocol (blockchain for AI transactions), and the Advanced AI Society (governance standards).
+
+*h/t [Michael J. Casey](https://www.linkedin.com/in/michaeljohncasey) for suggesting these resources*
+
+## **Decentralized AI Society**
+
+DAIS is an industry coalition promoting an open, decentralized AI economy as an alternative to Big Tech dominance. Founded by Michael Casey (former CoinDesk CCO) and others, it unites projects like Filecoin Foundation, NEAR Protocol, Hedera, and Morpheus around four pillars: engineering collaboration, capital formation, policy advocacy, and mainstream outreach. Core beliefs include censorship resistance, open-source innovation, and human-centric AI development.
+
+- Web: https://dais.global/
+- X: [@DaisGlobal](https://x.com/DaisGlobal)
+- [LinkedIn](https://www.linkedin.com/company/deaisociety)
+
 ## **Advanced AI Society**
 A neutral organization of leading AI innovators that proves, pilots, and promotes solutions addressing privacy, verification, and transparency across the AI stack. They drive adoption for Advanced AI solutions through research, workshops, working groups, and networking events, with partnerships across enterprise, government, civil society, and universities. Their core mission is to prevent AI lock-in by providing enterprises and governments with credible alternatives to the four major cloud giants before centralization becomes irreversible.
 
