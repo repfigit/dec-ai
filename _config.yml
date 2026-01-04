@@ -10,11 +10,5 @@ plugins:
 author: Keith Ammon
 
 social-network-links:
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
- # facebook: deanattali
- # github: daattali
- # twitter: daattali
- # patreon: DeanAttali
- # youtube: "@daattali"
- # whatsapp: 15551212
- linktree: https://linktr.ee/keith.ammon
+  rss: true
+  linktree: https://linktr.ee/keith.ammon
