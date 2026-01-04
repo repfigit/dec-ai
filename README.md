@@ -1,4 +1,3 @@
-# Decentralized AI
 Decentralized AI is an emerging paradigm where autonomous AI agents discover, authenticate, and transact with each other across distributed networks rather than through centralized cloud platforms. This requires new infrastructure because traditional web systems (DNS, certificates, IP addressing) were built for human-scale interactions with slow update cycles, while AI agents need millisecond-level identity resolution, instant revocation, and cryptographic capability verification. Key players include Project NANDA at MIT (agent discovery architecture), NEAR Protocol (blockchain for AI transactions), and the Advanced AI Society (governance standards).
 
 *h/t [Michael J. Casey](https://www.linkedin.com/in/michaeljohncasey) for suggesting these resources*
