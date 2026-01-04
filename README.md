@@ -58,6 +58,7 @@ EQTY Lab focuses on verifiable AI governance and AI integrity. They provide solu
 - Web: https://www.eqtylab.io/
 - X: [@EQTYLab](https://x.com/EQTYLab)
 - [LinkedIn](https://linkedin.com/company/eqty-lab)
+
 ## **Project Liberty**
 Project Liberty is a $500 million initiative by Frank McCourt to transform how the internet works, empower people over platforms, and support healthier social media development. In 2021, they made the Decentralized Social Networking Protocol (DSNP) available as a public utility and launched Project Liberty's institute (with academic partners including Georgetown, ETH Zurich, and Stanford) to ensure digital governance is prioritized in next-generation internet development.
 
